@@ -17,3 +17,5 @@ let fizzBuzz = function(num)
         { console.log(i); }
     }
 }
+
+console.log(fizzBuz(100));
